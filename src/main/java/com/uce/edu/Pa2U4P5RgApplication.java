@@ -9,7 +9,4 @@ public class Pa2U4P5RgApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Pa2U4P5RgApplication.class, args);
 	}
-	
-	//Proyecto unidad 4
-	
 }
